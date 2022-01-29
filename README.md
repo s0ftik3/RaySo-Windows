@@ -9,4 +9,3 @@ You can use `CTRL + C` hotkey to copy the image and share it somewhere.
 ## Demo
 <img src="https://i.ibb.co/0qPYX5f/stepOne.png" alt="stepOne">
 <img src="https://i.ibb.co/qY1NjHH/stepTwo.png" alt="stepTwo">
-<img src="https://s10.gifyu.com/images/2022-01-28-18-12-09.md.gif" alt="demo">
